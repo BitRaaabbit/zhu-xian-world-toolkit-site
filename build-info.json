@@ -3,8 +3,8 @@
   "channel": "internal-test",
   "toolVersion": "0.1.0",
   "dataReleaseId": "s4-2026-07-13-v1",
-  "sourceCommit": "ef739d2",
+  "sourceCommit": "54ec0c3",
   "fileCount": 5,
-  "buildTime": "2026-07-21T08:54:36.542915+00:00",
+  "buildTime": "2026-07-21T11:41:20.414811+00:00",
   "noindex": true
 }
